@@ -21,4 +21,4 @@ There is a lot to cover, but this course has been broken up into bite-sized less
 3. Every few lessons you will be asked to build a larger project.
 4. Finally, we will include supplemental resources and other potentially useful tidbits at the end of each lesson.
 
-### Enough talk - get learning!
+### Enough talk - get learning! This course is great !
